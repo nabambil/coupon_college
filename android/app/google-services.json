@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567852347650",
+    "firebase_url": "https://e-coupon-college.firebaseio.com",
+    "project_id": "e-coupon-college",
+    "storage_bucket": "e-coupon-college.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567852347650:android:d4d2dd11486a186f09d21b",
+        "android_client_info": {
+          "package_name": "com.example.coupon_college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567852347650-kn0g3dd73in9r9g79bvmphforro205dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHIfqJRhpsZvrEPqwC1m4cLX7jneaYVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567852347650-kn0g3dd73in9r9g79bvmphforro205dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
